@@ -1,0 +1,62 @@
+/* Add your CSS styles here */
+.cart {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    border: 1px solid #10db43;
+    padding: 50px;
+}
+
+
+img {
+    width: 20px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+.like-button.liked {
+    color: red;
+}
+.prod11{
+    translate: -30px -50px; 
+}
+.prod1{
+    translate: -40px  -50px; 
+}
+.prod10{ translate:-100px  -30px;   
+
+}
+.decrement-button{  translate: -220px  -00px; 
+
+}
+.item-quantity{ translate: -220px  -0px; 
+
+}
+.increment-button{ translate: -220px  -000px; 
+
+}
+.delete-button{ translate: -210px  -0px; 
+
+}
+.like-button{ translate: -205px  -00px; 
+
+}
+.prod2{  translate: -40px  -50px; scale: 0.8;
+
+}
+.prod22{translate: -40px  -50px;
+
+}
+.prod15 { translate:-100px  -30px;
+
+}
